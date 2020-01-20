@@ -1,0 +1,39 @@
+.descricao-resumo-saldo{
+  position: absolute;
+  margin-left: 138px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.descricao-resumo-receita{
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.descricao-resumo-despesas{
+  position: absolute;
+  margin-left: 155px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.descricao-resumo-banco{
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.texto-resumo{
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 60px;
+  font-size: 1.4em;
+}
+
+.imagem-resumo{
+position: absolute;
+width: 80%;
+}
